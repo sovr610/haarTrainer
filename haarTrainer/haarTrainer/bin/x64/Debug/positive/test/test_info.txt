@@ -1,0 +1,2 @@
+poisitive1.jpg 1 0 0 92 116
+name numOfPosObjInImage x y width height

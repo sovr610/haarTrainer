@@ -1,0 +1,11 @@
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\bin\x64\Debug\haarTrainer.exe.config
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\bin\x64\Debug\haarTrainer.exe
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\bin\x64\Debug\haarTrainer.pdb
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\obj\x64\Debug\haarTrainer.csprojAssemblyReference.cache
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\obj\x64\Debug\haarTrainer.main.resources
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\obj\x64\Debug\haarTrainer.csproj.GenerateResource.cache
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\obj\x64\Debug\haarTrainer.csproj.CopyComplete
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\obj\x64\Debug\haarTrainer.exe
+C:\Users\Parker\Desktop\tensor_flow\haarTrainer\haarTrainer\haarTrainer\obj\x64\Debug\haarTrainer.pdb
